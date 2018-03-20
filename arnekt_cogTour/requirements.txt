@@ -1,0 +1,6 @@
+jsonpickle
+tqdm
+google-cloud
+flask
+speechRecognition
+google-api-python-client
